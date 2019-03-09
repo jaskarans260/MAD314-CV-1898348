@@ -1,0 +1,10 @@
+git add -A : I used this command to add the contents in  report.txt file. the unmodified files are added to the modified state . we are using this command to put the stage file to modified state . 
+
+git clone "https://github.com/jaskarans260/MAD314-CV-1898348": I used this command to clone the git repository to the my computer . The online repository was copied to my computer . 
+
+git pull "https://github.com/richbighouse/mad-314-cv-assignment" : I used this command to pull the instruction.txt file from the online repository.
+
+git push : to push or upload all the files from my computer to git repo . 
+
+git commit : to commit the modifies files . 
+
